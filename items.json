@@ -1,0 +1,44 @@
+{
+    "Bot store": [
+      {
+        "id": 1,
+        "name": "Bot version 1.0.0",
+        "price": 400,
+        "imgName": "Images/Album 1.png"
+      },
+      
+      {
+        "id": 2,
+        "name": "Album 2",
+        "price": 100,
+        "imgName": "Images/Album 2.png"
+      },
+      {
+        "id": 3,
+        "name": "VIP",
+        "price": 1000,
+        "imgName": "Images/Album 3.png"
+      },
+      {
+        "id": 4,
+        "name": "Bot latest version",
+        "price": 1450,
+        "imgName": "Images/Album 4.png"
+      }
+    ],
+    "Merch": [
+      {
+        "id": 5,
+        "name": "T-Shirt",
+        "price": 799,
+        "imgName": "T-shirt.png"
+      },
+      {
+        "id": 6,
+        "name": "Coffee Cup",
+        "price": 200,
+        "imgName": "coffee.png"
+      }
+    ]
+  }
+    
